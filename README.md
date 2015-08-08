@@ -14,7 +14,7 @@ The goal is to create a list of websites that block traffic routet via Tor proxi
 Configuration and Usage
 -----------------------
 
- 1. Make sure you have installed tor and the proxy port in tor-checker.sh is valid
+ 1. Make sure you have installed tor and the proxy port in torcheck.sh is valid
  2. Make sure your system is configured to send emails using sendmail
  3. Create a file called ../mailaddresses.txt end enter the email address the script should send the generated report to.
- 4. make th tor-checker.sh executable and run
+ 4. make th torcheck.sh executable and run
